@@ -1,6 +1,6 @@
 # Hi there, I’m Bernard Sefah 👋  
 
-🎯 **Aspiring Medical Statistician | Data Scientist | Machine Learning Enthusiast | AI in Medicine & Business Intelligence**
+🎯 **Aspiring Medical Statistician | Data Scientist| Data Analyst | Machine Learning Enthusiast | AI in Medicine & Business Intelligence**
 
 ---
 
